@@ -1,0 +1,3 @@
+/Users/mihailnovikov/Desktop/mp2-lab2-matrix/build/CMakeFiles/utmatrix.dir
+/Users/mihailnovikov/Desktop/mp2-lab2-matrix/build/CMakeFiles/edit_cache.dir
+/Users/mihailnovikov/Desktop/mp2-lab2-matrix/build/CMakeFiles/rebuild_cache.dir

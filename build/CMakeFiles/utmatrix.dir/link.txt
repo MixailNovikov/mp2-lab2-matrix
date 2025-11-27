@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/utmatrix.dir/test/test_tvector.cpp.o CMakeFiles/utmatrix.dir/test/test_tmatrix.cpp.o CMakeFiles/utmatrix.dir/test/test_main.cpp.o "CMakeFiles/utmatrix.dir/gtest/gtest-all.cc.o" -o utmatrix
